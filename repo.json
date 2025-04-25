@@ -3,5 +3,10 @@
   "description": "A repository for Tachiyomi extensions.",
   "version": 1,
   "baseUrl": "https://raw.githubusercontent.com/daniel-bernardinoist/repo_mihon/main/",
-  "extensions": "index.min.json"
+  "extensions": "index.min.json",
+  "meta": {
+    "name": "Daniel Bernardino",
+    "website": "https://github.com/daniel-bernardinoist",
+    "signingKeyFingerprint": ""
+  }
 }
