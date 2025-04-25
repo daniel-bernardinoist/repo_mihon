@@ -1,0 +1,7 @@
+{
+  "name": "Mihon Repository",
+  "description": "A repository for Tachiyomi extensions.",
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/daniel-bernardinoist/repo_mihon/main/",
+  "extensions": "index.min.json"
+}
